@@ -1,0 +1,32 @@
+{
+    "recipes": {
+        "recipe_id": 1,
+        "title": "Jalapeno Popper Grilled Cheese Sandwich",
+        "image_url": "http://static.food2fork.com/Jalapeno2BPopper2BGrilled2BCheese2BSandwich2B12B500fd186186.jpg",
+        "ingredients": [
+            "2 jalapeno peppers, cut in half lengthwise and seeded",
+            "2 slices sour dough bread",
+            "1 tablespoon butter, room temperature",
+            "2 tablespoons cream cheese, room temperature",
+            "1/2 cup jack and cheddar cheese, shredded",
+            "1 tablespoon tortilla chips, crumbled\n"
+        ],
+        "instructions": [
+            "pre-head the grill",
+            "lubricate the grill with butter",
+            "put the chicken on the grill and grill each side for 5 minutes",
+            "take the chicken out in the palate, and squeeze lime juice on top of it",
+            "cover the chicken in the alluminum foil and leave for 5 minutes befroe serving"
+        ],
+        "nutritions": {
+            "calories": 560,
+            "protien": 14,
+            "carbs": 7,
+            "fat": 15
+        },
+        "timing": {
+            "prep-time": "5 minutes",
+            "total-time": "15 minutes"
+        }
+    }
+}
